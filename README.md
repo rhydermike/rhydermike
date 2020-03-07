@@ -1,0 +1,2 @@
+# rhydermike
+personal programming exercises
