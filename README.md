@@ -1,2 +1,1 @@
-# rhydermike
-personal programming exercises
+# cs
